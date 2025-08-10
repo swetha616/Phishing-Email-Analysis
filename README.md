@@ -1,4 +1,4 @@
-# Phishing Email Analysis: Amazon Gift Card Scam
+# Task 2- Phishing Email Analysis: Amazon Gift Card Scam
 
 This repository contains the analysis of a **suspicious phishing email** impersonating **Amazon Gift Card Services**. The investigation includes email header inspection, hop analysis, blacklist status, and **live link verification**.
 
